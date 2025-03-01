@@ -3,3 +3,4 @@ To compile type this in the terminal
 ```
 gcc -o trigger.c output.exe -lgdi32 -luser32
 ```
+This works on Windows XP
